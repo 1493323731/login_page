@@ -1,6 +1,5 @@
 import axios,{AxiosRequestConfig,AxiosResponse} from 'axios';
 import { ElLoading } from 'element-plus';
-import { Options } from 'vue-class-component';
 let loading:any;
 const startLoading=()=>{
   interface Options{
